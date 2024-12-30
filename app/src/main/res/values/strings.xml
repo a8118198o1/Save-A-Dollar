@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Savedollarlesspage</string>
+    <string name="part1">would you like to donate a dollar to save a dog?</string>
+    <string name="part2">so you would not like to donate a dollar to save a dog?</string>
+    <string name="part3">so you would not like to not donate a dollar to save a dog?</string>
+    <string name="part4">do you like dogs?</string>
+    <string name="part5">but you do not want to save one?</string>
+    <string name="part6">so you want this dog to die?</string>
+    <string name="part7">so you want to donate a dollar then?</string>
+    <string name="part8">ohh…</string>
+    <string name="part9">he is dead</string>
+    <string name="part10">hope that was worth it!</string>
+    <string name="winner">you won</string>
+    <string name="lose">you lost</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="loss_txt">text for loss image</string>
+    <string name="won_txt">text for won image</string>
+    <string name="img_loss">image for loss</string>
+    <string name="img_won">image for won</string>
+    <string name="bg">background image</string>
+    <string name="game_txt">text for game title</string>
+    <string name="restart">text for restart</string>
+    <string name="setting">text for setting</string>
+    <string name="image">text for image</string>
+    <string name="btn_restart">Restart</string>
+    <string name="game_start">Start</string>
+</resources>
